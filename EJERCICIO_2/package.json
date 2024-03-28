@@ -1,0 +1,14 @@
+{
+  "name": "ejercicio_2",
+  "version": "1.0.0",
+  "description": "Ejercicio 2 Npm",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Heber Miguel Ramirez",
+  "license": "ISC",
+  "dependencies": {
+    "is-odd": "^3.0.1"
+  }
+}
